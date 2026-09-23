@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
