@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -55,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/lipsitacodes/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
